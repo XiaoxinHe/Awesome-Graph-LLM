@@ -45,6 +45,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 ### Common Sense Reasoning
 - (*EMNLP 2022*) Language Models of Code are Few-Shot Commonsense Learners [[paper](https://arxiv.org/abs/2210.07128)][[code](https://github.com/reasoning-machines/CoCoGen)] 
 ### Others
+- (*arXiv 2023.05*) ChatGPT Informed Graph Neural Network for Stock Movement Prediction [[paper](https://ssrn.com/abstract=4464002)][[arxiv](https://arxiv.org/abs/2306.03763)]
 - (*arXiv 2023.03*) Ask and You Shall Receive (a Graph Drawing): Testing ChatGPT’s Potential to Apply Graph Layout Algorithms [[paper](https://arxiv.org/abs/2303.08819)]
 
 

@@ -11,12 +11,12 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
   - [Table of Contents](#table-of-contents)
   - [Datasets \& Benchmarks](#datasets--benchmarks)
   - [Prompting](#prompting)
+  - [General Graph Model](#general-graph-model)
   - [Applications](#applications)
     - [Basic Graph Reasoning](#basic-graph-reasoning)
     - [Node Classification](#node-classification)
     - [Graph Classification/Regression](#graph-classificationregression)
     - [Knowledge Graph](#knowledge-graph)
-    - [General Graph Model](#general-graph-model)
     - [Others](#others)
   - [Resources \& Tools](#resources--tools)
   - [Contributing](#contributing)
@@ -33,6 +33,11 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 - (*arXiv 2023.05*) StructGPT: A General Framework for Large Language Model to Reason over Structured Data [[paper](https://arxiv.org/abs/2305.09645)][[code](https://github.com/RUCAIBox/StructGPT)]
 - (*arXiv 2023.08*) Graph of Thoughts: Solving Elaborate Problems with Large Language Models [[paper](https://arxiv.org/abs/2308.09687)][[code](https://github.com/spcl/graph-of-thoughts)]
 - (*arXiv 2023.08*) Boosting Logical Reasoning in Large Language Models through a New Framework: The Graph of Thought [[paper](https://arxiv.org/abs/2308.08614)]
+
+
+## General Graph Model
+- (*arXiv 2023.10*) One for All: Towards Training One Graph Model for All Classification Tasks [[paper](https://arxiv.org/abs/2310.00149)][[code](https://github.com/LechengKong/OneForAll)]
+
 
 
 ## Applications
@@ -62,15 +67,13 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 - (*arXiv 2023.09*) Graph Neural Prompting with Large Language Models [[paper](https://arxiv.org/abs/2309.15427)]
 
 
-### General Graph Model
-- (*arXiv 2023.10*) One for All: Towards Training One Graph Model for All Classification Tasks [[paper](https://arxiv.org/abs/2310.00149)][[code](https://github.com/LechengKong/OneForAll)]
 
 
 ### Others
 - (*arXiv 2023.03*) Ask and You Shall Receive (a Graph Drawing): Testing ChatGPT’s Potential to Apply Graph Layout Algorithms [[paper](https://arxiv.org/abs/2303.08819)]
 - (*arXiv 2023.05*) Graph Meets LLM: A Novel Approach to Collaborative Filtering for Robust Conversational Understanding [[paper](https://arxiv.org/abs/2305.14449)]
 - (*arXiv 2023.05*) ChatGPT Informed Graph Neural Network for Stock Movement Prediction [[paper](https://arxiv.org/abs/2306.03763)][[code](https://github.com/ZihanChen1995/ChatGPT-GNN-StockPredict)]
-- （*arXiv 2023.10*)Graph Neural Architecture Search with GPT-4 [[paper](https://arxiv.org/abs/2310.01436)]
+- (*arXiv 2023.10*) Graph Neural Architecture Search with GPT-4 [[paper](https://arxiv.org/abs/2310.01436)]
 
 
 ## Resources & Tools

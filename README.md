@@ -16,6 +16,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
     - [Node Classification](#node-classification)
     - [Graph Classification/Regression](#graph-classificationregression)
     - [Knowledge Graph](#knowledge-graph)
+    - [General Graph Model](#general-graph-model)
     - [Others](#others)
   - [Resources \& Tools](#resources--tools)
   - [Contributing](#contributing)
@@ -69,6 +70,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 - (*arXiv 2023.03*) Ask and You Shall Receive (a Graph Drawing): Testing ChatGPT’s Potential to Apply Graph Layout Algorithms [[paper](https://arxiv.org/abs/2303.08819)]
 - (*arXiv 2023.05*) Graph Meets LLM: A Novel Approach to Collaborative Filtering for Robust Conversational Understanding [[paper](https://arxiv.org/abs/2305.14449)]
 - (*arXiv 2023.05*) ChatGPT Informed Graph Neural Network for Stock Movement Prediction [[paper](https://arxiv.org/abs/2306.03763)][[code](https://github.com/ZihanChen1995/ChatGPT-GNN-StockPredict)]
+- （*arXiv 2023.10*)Graph Neural Architecture Search with GPT-4 [[paper](https://arxiv.org/abs/2310.01436)]
 
 
 ## Resources & Tools

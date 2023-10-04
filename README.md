@@ -61,6 +61,10 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 - (*arXiv 2023.09*) Graph Neural Prompting with Large Language Models [[paper](https://arxiv.org/abs/2309.15427)]
 
 
+### General Graph Model
+- (*arXiv 2023.10*) One for All: Towards Training One Graph Model for All Classification Tasks [[paper](https://arxiv.org/abs/2310.00149)][[code](https://github.com/LechengKong/OneForAll)]
+
+
 ### Others
 - (*arXiv 2023.03*) Ask and You Shall Receive (a Graph Drawing): Testing ChatGPT’s Potential to Apply Graph Layout Algorithms [[paper](https://arxiv.org/abs/2303.08819)]
 - (*arXiv 2023.05*) Graph Meets LLM: A Novel Approach to Collaborative Filtering for Robust Conversational Understanding [[paper](https://arxiv.org/abs/2305.14449)]

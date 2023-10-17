@@ -53,6 +53,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 - (*arXiv 2023.08*) Natural Language is All a Graph Needs [[paper](https://arxiv.org/abs/2308.07134)]
 - (*arXiv 2023.09*) Can LLMs Effectively Leverage Structural Information for Graph Learning: When and Why [[paper](https://arxiv.org/abs/2309.16595)][[code](https://github.com/TRAIS-Lab/LLM-Structured-Data)]
 - (*arXiv 2023.10*) Label-free Node Classification on Graphs with Large Language Models (LLMS) [[paper]](https://arxiv.org/abs/2310.04668)
+- (*arXiv 2023.10*) Empower Text-Attributed Graphs Learning with Large Language Models (LLMs) [[paper]](https://arxiv.org/abs/2310.09872)
 
 
 ### Graph Classification/Regression

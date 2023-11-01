@@ -74,7 +74,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 - (*arXiv 2023.04*) CodeKGC: Code Language Model for Generative Knowledge Graph Construction [[paper](https://arxiv.org/abs/2304.09048)][[code](https://github.com/zjunlp/DeepKE/tree/main/example/llm/CodeKGC)]
 - (*arXiv 2023.05*) Knowledge Graph Completion Models are Few-shot Learners: An Empirical Study of Relation Labeling in E-commerce with LLMs [[paper](https://arxiv.org/abs/2305.09858)]
 - (*arXiv 2023.09*) Graph Neural Prompting with Large Language Models [[paper](https://arxiv.org/abs/2309.15427)]
-
+- (*arXiv 2023.10*) Faithful Path Language Modelling for Explainable Recommendation over Knowledge Graph [[paper](https://arxiv.org/abs/2310.16452)]
 
 
 

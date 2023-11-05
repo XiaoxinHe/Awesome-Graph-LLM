@@ -83,7 +83,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 - (*arXiv 2023.05*) Graph Meets LLM: A Novel Approach to Collaborative Filtering for Robust Conversational Understanding [[paper](https://arxiv.org/abs/2305.14449)]
 - (*arXiv 2023.05*) ChatGPT Informed Graph Neural Network for Stock Movement Prediction [[paper](https://arxiv.org/abs/2306.03763)][[code](https://github.com/ZihanChen1995/ChatGPT-GNN-StockPredict)]
 - (*arXiv 2023.10*) Graph Neural Architecture Search with GPT-4 [[paper](https://arxiv.org/abs/2310.01436)]
-- (*WSDM 2024*) LLMRec: Large Language Models with Graph Augmentation for Recommendation [[paper](https://arxiv.org/pdf/2311.00423.pdf)]
+- (*WSDM 2024*) LLMRec: Large Language Models with Graph Augmentation for Recommendation [[paper](https://arxiv.org/pdf/2311.00423.pdf)] [[code](https://github.com/HKUDS/LLMRec)] [[blog in Chinese](https://mp.weixin.qq.com/s/aU-uzLWH6xfIuoon-Zq8Cg)].
 
 
 ## Resources & Tools

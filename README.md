@@ -12,6 +12,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
   - [Datasets, Benchmarks \& Surveys](#datasets-benchmarks--surveys)
   - [Prompting](#prompting)
   - [General Graph Model](#general-graph-model)
+  - [Large Multimodal Models (LMMs)](#large-multimodal-models-lmms)
   - [Applications](#applications)
     - [Basic Graph Reasoning](#basic-graph-reasoning)
     - [Node Classification](#node-classification)
@@ -44,6 +45,10 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 - (*arXiv 2023.10*) GraphGPT: Graph Instruction Tuning for Large Language Models [[paper](https://arxiv.org/abs/2310.13023)][[code](https://github.com/HKUDS/GraphGPT)][[blog in Chinese](https://mp.weixin.qq.com/s/rvKTFdCk719Q6hT09Caglw)]
 - (*arXiv 2023.10*) Graph Agent: Explicit Reasoning Agent for Graphs [[paper](https://arxiv.org/abs/2310.16421)]
 
+
+## Large Multimodal Models (LMMs)
+- (NeurIPS'23) GraphAdapter: Tuning Vision-Language Models With Dual Knowledge Graph [[paper](https://arxiv.org/abs/2309.13625)][[code](https://github.com/lixinustc/GraphAdapter)]
+- (*arXiv 2023.10*) Multimodal Graph Learning for Generative Tasks [[paper](https://arxiv.org/abs/2310.07478)][[code](https://github.com/minjiyoon/MMGL)]
 
 
 ## Applications

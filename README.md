@@ -37,6 +37,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 - (*arXiv 2023.12*) Large Language Models on Graphs: A Comprehensive Survey [[paper](https://arxiv.org/abs/2312.02783)][[code](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs)]
 - (*arXiv 2024.02*) Towards Versatile Graph Learning Approach: from the Perspective of Large Language Models [[paper](https://arxiv.org/abs/2402.11641)]
 - (*arXiv 2024.04*) Graph Machine Learning in the Era of Large Language Models (LLMs) [[paper](https://arxiv.org/abs/2404.14928)]
+- (*arXiv 2024.05*) A Survey of Large Language Models for Graphs [[paper](https://arxiv.org/abs/2405.08011)][[code](https://github.com/HKUDS/Awesome-LLM4Graph-Papers)]
   
 ## Prompting
 - (*EMNLP'23*) StructGPT: A General Framework for Large Language Model to Reason over Structured Data [[paper](https://arxiv.org/abs/2305.09645)][[code](https://github.com/RUCAIBox/StructGPT)]

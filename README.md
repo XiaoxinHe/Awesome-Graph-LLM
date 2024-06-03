@@ -134,6 +134,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 - (*arXiv 2024.02*) Causal Graph Discovery with Retrieval-Augmented Generation based Large Language Models [[paper](https://arxiv.org/abs/2402.15301)]
 - (*arXiv 2024.02*) Graph-enhanced Large Language Models in Asynchronous Plan Reasoning [[paper](https://arxiv.org/abs/2402.02805)][[code](https://github.com/fangru-lin/graph-llm-asynchow-plan)]
 - (*arXiv 2024.03*) Exploring the Potential of Large Language Models in Graph Generation [[paper](https://arxiv.org/abs/2403.08593)]
+- (*arXiv 2024.05*) Don't Forget to Connect! Improving RAG with Graph-based Reranking [[paper](https://arxiv.org/abs/2405.18414)]
 
 
 ## Resources & Tools

@@ -18,6 +18,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
     - [Node Classification](#node-classification)
     - [Graph Classification/Regression](#graph-classificationregression)
     - [Knowledge Graph](#knowledge-graph)
+    - [Molecular Graph](#molecular-graph)
     - [Others](#others)
   - [Resources \& Tools](#resources--tools)
   - [Contributing](#contributing)
@@ -60,6 +61,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 - (*arXiv 2024.02*) LLaGA: Large Language and Graph Assistant [[paper](https://arxiv.org/abs/2402.08170)][[code](https://github.com/VITA-Group/LLaGA)]
 - (*arXiv 2024.02*) HiGPT: Heterogeneous Graph Language Model [[paper](https://arxiv.org/abs/2402.16024)][[code](https://github.com/HKUDS/HiGPT)]
 - (*arXiv 2024.02*) UniGraph: Learning a Cross-Domain Graph Foundation Model From Natural Language [[paper](https://arxiv.org/abs/2402.13630)]
+- (*arXiv 2024.06*) UniGLM: Training One Unified Language Model for Text-Attributed Graphs [[paper](https://arxiv.org/abs/2406.12052)][[code](https://github.com/NYUSHCS/UniGLM)]
 
 
 
@@ -92,6 +94,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 - (*arXiv 2024.02*) Distilling Large Language Models for Text-Attributed Graph Learning [[paper](https://arxiv.org/abs/2402.12022)]
 - (*arXiv 2024.02*) GraphEdit: Large Language Models for Graph Structure Learning [[paper](https://arxiv.org/abs/2402.15183)][[code](https://github.com/HKUDS/GraphEdit?tab=readme-ov-file)]
 - (*arXiv 2024.05*) LOGIN: A Large Language Model Consulted Graph Neural Network Training Framework [[paper](https://arxiv.org/abs/2405.13902)][[code](https://github.com/QiaoYRan/LOGIN)]
+- (*arXiv 2024.06*) GAugLLM: Improving Graph Contrastive Learning for Text-Attributed Graphs with Large Language Models [[paper](https://arxiv.org/abs/2406.11945)][[code](https://github.com/NYUSHCS/GAugLLM)]
 
 
 ### Graph Classification/Regression
@@ -122,7 +125,8 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 - (*arXiv 2024.05*) FiDeLiS: Faithful Reasoning in Large Language Model for Knowledge Graph Question Answering [[paper](https://arxiv.org/abs/2405.13873)]
 - (*arXiv 2024.06*) Explore then Determine: A GNN-LLM Synergy Framework for Reasoning over Knowledge Graph [[paper](https://arxiv.org/abs/2406.01145)]
 
-
+### Molecular Graph
+- (*arXiv 2024.06*) MolecularGPT: Open Large Language Model (LLM) for Few-Shot Molecular Property Prediction [[paper](https://arxiv.org/abs/2406.12950)][[code](https://github.com/NYUSHCS/MolecularGPT)]
 
 ### Others
 - (*WSDM'24*) LLMRec: Large Language Models with Graph Augmentation for Recommendation [[paper](https://arxiv.org/abs/2311.00423)][[code](https://github.com/HKUDS/LLMRec)][[blog in Chinese](https://mp.weixin.qq.com/s/aU-uzLWH6xfIuoon-Zq8Cg)].

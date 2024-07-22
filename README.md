@@ -63,6 +63,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 - (*arXiv 2024.02*) HiGPT: Heterogeneous Graph Language Model [[paper](https://arxiv.org/abs/2402.16024)][[code](https://github.com/HKUDS/HiGPT)]
 - (*arXiv 2024.02*) UniGraph: Learning a Cross-Domain Graph Foundation Model From Natural Language [[paper](https://arxiv.org/abs/2402.13630)]
 - (*arXiv 2024.06*) UniGLM: Training One Unified Language Model for Text-Attributed Graphs [[paper](https://arxiv.org/abs/2406.12052)][[code](https://github.com/NYUSHCS/UniGLM)]
+- (*arXiv 2024.07*) GOFA: A Generative One-For-All Model for Joint Graph Language Modeling [[paper](https://arxiv.org/abs/2407.09709)][[code](https://github.com/JiaruiFeng/GOFA)]
 
 
 

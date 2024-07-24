@@ -19,6 +19,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
     - [Graph Classification/Regression](#graph-classificationregression)
     - [Knowledge Graph](#knowledge-graph)
     - [Molecular Graph](#molecular-graph)
+    - [Graph Robustness](#graph-robustness)
     - [Others](#others)
   - [Resources \& Tools](#resources--tools)
   - [Contributing](#contributing)
@@ -132,7 +133,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 - (*arXiv 2024.06*) MolecularGPT: Open Large Language Model (LLM) for Few-Shot Molecular Property Prediction [[paper](https://arxiv.org/abs/2406.12950)][[code](https://github.com/NYUSHCS/MolecularGPT)]
 - (*arXiv 2024.06*) HIGHT: Hierarchical Graph Tokenization for Graph-Language Alignment [[paper](https://arxiv.org/abs/2406.14021)][[project](https://higraphllm.github.io/)]
 
-### Robustness
+### Graph Robustness
 - (*arXiv 2024.05*) Intruding with Words: Towards Understanding Graph Injection Attacks at the Text Level [[paper](https://arxiv.org/abs/2405.16405)]
 
 ### Others

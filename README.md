@@ -100,6 +100,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 - (*arXiv 2024.05*) LOGIN: A Large Language Model Consulted Graph Neural Network Training Framework [[paper](https://arxiv.org/abs/2405.13902)][[code](https://github.com/QiaoYRan/LOGIN)]
 - (*arXiv 2024.06*) GAugLLM: Improving Graph Contrastive Learning for Text-Attributed Graphs with Large Language Models [[paper](https://arxiv.org/abs/2406.11945)][[code](https://github.com/NYUSHCS/GAugLLM)]
 - (*arXiv 2024.07*) Enhancing Data-Limited Graph Neural Networks by Actively Distilling Knowledge from Large Language Models [[paper](https://arxiv.org/abs/2407.13989)]
+- (*arXiv 2024.07*) All Against Some: Efficient Integration of Large Language Models for Message Passing in Graph Neural Networks [[paper](https://arxiv.org/abs/2407.14996)]
 
 
 ### Graph Classification/Regression

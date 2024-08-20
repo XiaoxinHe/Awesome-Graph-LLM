@@ -141,6 +141,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 
 ### Graph Robustness
 - (*arXiv 2024.05*) Intruding with Words: Towards Understanding Graph Injection Attacks at the Text Level [[paper](https://arxiv.org/abs/2405.16405)]
+- (*arXiv 2024.08*) Can Large Language Models Improve the Adversarial Robustness of Graph Neural Networks? [[paper](https://arxiv.org/pdf/2408.08685)]
 
 ### Others
 - (*WSDM'24*) LLMRec: Large Language Models with Graph Augmentation for Recommendation [[paper](https://arxiv.org/abs/2311.00423)][[code](https://github.com/HKUDS/LLMRec)][[blog in Chinese](https://mp.weixin.qq.com/s/aU-uzLWH6xfIuoon-Zq8Cg)].

@@ -73,6 +73,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 - (*NeurIPS'23*) GraphAdapter: Tuning Vision-Language Models With Dual Knowledge Graph [[paper](https://arxiv.org/abs/2309.13625)][[code](https://github.com/lixinustc/GraphAdapter)]
 - (*arXiv 2023.10*) Multimodal Graph Learning for Generative Tasks [[paper](https://arxiv.org/abs/2310.07478)][[code](https://github.com/minjiyoon/MMGL)]
 - (*arXiv 2024.02*) Rendering Graphs for Graph Reasoning in Multimodal Large Language Models [[paper](https://arxiv.org/abs/2402.02130)]
+- (*ACL 2024*) Graph Language Models [[paper](https://aclanthology.org/2024.acl-long.245/)][[code](https://github.com/Heidelberg-NLP/GraphLanguageModels)]
 
 
 ## Applications
@@ -132,6 +133,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 - (*arXiv 2024.04*) Extract, Define, Canonicalize: An LLM-based Framework for Knowledge Graph Construction [[paper](https://arxiv.org/abs/2404.03868)]
 - (*arXiv 2024.05*) FiDeLiS: Faithful Reasoning in Large Language Model for Knowledge Graph Question Answering [[paper](https://arxiv.org/abs/2405.13873)]
 - (*arXiv 2024.06*) Explore then Determine: A GNN-LLM Synergy Framework for Reasoning over Knowledge Graph [[paper](https://arxiv.org/abs/2406.01145)]
+- (*ACL 2024*) Graph Language Models [[paper](https://aclanthology.org/2024.acl-long.245/)][[code](https://github.com/Heidelberg-NLP/GraphLanguageModels)]
 
 ### Molecular Graph
 - (*arXiv 2024.06*) MolecularGPT: Open Large Language Model (LLM) for Few-Shot Molecular Property Prediction [[paper](https://arxiv.org/abs/2406.12950)][[code](https://github.com/NYUSHCS/MolecularGPT)]

@@ -164,6 +164,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 - (*arXiv 2024.05*) Can Graph Learning Improve Task Planning? [[paper](https://arxiv.org/abs/2405.19119)][[code](https://github.com/WxxShirley/GNN4TaskPlan)]
 - (*arXiv 2024.06*) GNN-RAG: Graph Neural Retrieval for Large Language Modeling Reasoning [[paper](https://arxiv.org/abs/2405.20139)][[code](https://github.com/cmavro/GNN-RAG)]
 - (*arXiv 2024.07*) LLMExplainer: Large Language Model based Bayesian Inference for Graph Explanation Generation [[paper](https://arxiv.org/abs/2407.15351)]
+- (*arXiv 2024.08*) CodexGraph: Bridging Large Language Models and Code Repositories via Code Graph Databases [[paper](https://arxiv.org/abs/2408.03910)][[code](https://github.com/modelscope/modelscope-agent/tree/master/apps/codexgraph_agent)]
 
 
 ## Resources & Tools

@@ -31,6 +31,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 - (*IEEE Intelligent Systems 2023*) Integrating Graphs with Large Language Models: Methods and Prospects [[paper](https://arxiv.org/abs/2310.05499)]
 - (*ICLR'24*) Talk like a Graph: Encoding Graphs for Large Language Models [[paper](https://arxiv.org/abs/2310.04560)]
 - (*KDD'24*) LLM4DyG: Can Large Language Models Solve Problems on Dynamic Graphs? [[paper](https://arxiv.org/abs/2310.17110)][[code](https://github.com/wondergo2017/LLM4DyG)]
+- (NeurIPS'24) TEG-DB: A Comprehensive Dataset and Benchmark of Textual-Edge Graphs [[pdf](https://arxiv.org/abs/2406.10310)][[code](https://github.com/Zhuofeng-Li/TEG-Benchmark/tree/main)][[datasets](https://huggingface.co/datasets/ZhuofengLi/TEG-Datasets/tree/main)]
 - (*arXiv 2023.05*) GPT4Graph: Can Large Language Models Understand Graph Structured Data? An Empirical Evaluation and Benchmarking [[paper](https://arxiv.org/abs/2305.15066)][[code](https://github.com/SpaceLearner/Graph-GPT)]
 - (*arXiv 2023.08*) Graph Meets LLMs: Towards Large Graph Models [[paper](http://arxiv.org/abs/2308.14522)]
 - (*arXiv 2023.10*) Towards Graph Foundation Models: A Survey and Beyond [[paper](https://arxiv.org/abs/2310.11829v1)]

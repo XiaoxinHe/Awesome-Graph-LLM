@@ -146,6 +146,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 - (*arXiv 2024.06*) HIGHT: Hierarchical Graph Tokenization for Graph-Language Alignment [[paper](https://arxiv.org/abs/2406.14021)][[project](https://higraphllm.github.io/)]
 - (*arXiv 2024.06*) MolX: Enhancing Large Language Models for Molecular Learning with A Multi-Modal Extension [[paper](https://arxiv.org/abs/2406.06777)]
 - (*arXiv 2024.06*) LLM and GNN are Complementary: Distilling LLM for Multimodal Graph Learning [[paper](https://arxiv.org/abs/2406.01032)]
+- (*arXiv 2024.10*) G2T-LLM: Graph-to-Tree Text Encoding for Molecule Generation with Fine-Tuned Large Language Models [[paper](https://arxiv.org/abs/2410.02198v1)]
 
 ### Graph Robustness
 - (*arXiv 2024.05*) Intruding with Words: Towards Understanding Graph Injection Attacks at the Text Level [[paper](https://arxiv.org/abs/2405.16405)]

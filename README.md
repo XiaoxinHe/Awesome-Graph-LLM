@@ -111,6 +111,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 - (*arXiv 2024.07*) Enhancing Data-Limited Graph Neural Networks by Actively Distilling Knowledge from Large Language Models [[paper](https://arxiv.org/abs/2407.13989)]
 - (*arXiv 2024.07*) All Against Some: Efficient Integration of Large Language Models for Message Passing in Graph Neural Networks [[paper](https://arxiv.org/abs/2407.14996)]
 - (*arXiv 2024.10*) Let's Ask GNN: Empowering Large Language Model for Graph In-Context Learning [[paper](https://arxiv.org/abs/2410.07074)]
+- (*arXiv 2024.10*) Large Language Model-based Augmentation for Imbalanced Node Classification on Text-Attributed Graphs [[paper](https://arxiv.org/abs/2410.16882)]
 
 
 ### Graph Classification/Regression

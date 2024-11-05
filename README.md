@@ -41,13 +41,13 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 - (*arXiv 2024.02*) Towards Versatile Graph Learning Approach: from the Perspective of Large Language Models [[paper](https://arxiv.org/abs/2402.11641)]
 - (*arXiv 2024.04*) Graph Machine Learning in the Era of Large Language Models (LLMs) [[paper](https://arxiv.org/abs/2404.14928)]
 - (*arXiv 2024.05*) A Survey of Large Language Models for Graphs [[paper](https://arxiv.org/abs/2405.08011)][[code](https://github.com/HKUDS/Awesome-LLM4Graph-Papers)]
-- (*arXiv 2024.07*) GLBench: A Comprehensive Benchmark for Graph with Large Language Models [[paper](https://arxiv.org/abs/2407.07457)][[code](https://github.com/NineAbyss/GLBench)]
+- (*NeurIPS'24 D&B*) GLBench: A Comprehensive Benchmark for Graph with Large Language Models [[paper](https://arxiv.org/abs/2407.07457)][[code](https://github.com/NineAbyss/GLBench)]
 - (*arXiv 2024.07*) Learning on Graphs with Large Language Models(LLMs): A Deep Dive into Model Robustness [[paper](https://arxiv.org/abs/2407.12068)][[code](https://github.com/KaiGuo20/GraphLLM_Robustness)]
 - (*arXiv 2024.09*) LLMs hallucinate graphs too: a structural perspective [[paper](https://arxiv.org/abs/2409.00159)]
 - (*arXiv 2024.10*) Can Graph Descriptive Order Affect Solving Graph Problems with LLMs? [[paper](https://arxiv.org/abs/2402.07140)]
 - (*arXiv 2024.10*) How Do Large Language Models Understand Graph Patterns? A Benchmark for Graph Pattern Comprehension [[paper](https://arxiv.org/abs/2410.05298v1)]
 - (*arXiv 2024.10*) GRS-QA - Graph Reasoning-Structured Question Answering Dataset [[paper](https://arxiv.org/abs/2411.00369)]
-
+- (*NeurIPS'24 D&B*) Can Large Language Models Analyze Graphs like Professionals? A Benchmark, Datasets and Models [[paper](https://arxiv.org/abs/2409.19667)] [[code](https://github.com/BUPT-GAMMA/ProGraph)] 
   
 ## Prompting
 - (*EMNLP'23*) StructGPT: A General Framework for Large Language Model to Reason over Structured Data [[paper](https://arxiv.org/abs/2305.09645)][[code](https://github.com/RUCAIBox/StructGPT)]
@@ -73,7 +73,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 - (*arXiv 2024.02*) UniGraph: Learning a Cross-Domain Graph Foundation Model From Natural Language [[paper](https://arxiv.org/abs/2402.13630)]
 - (*arXiv 2024.06*) UniGLM: Training One Unified Language Model for Text-Attributed Graphs [[paper](https://arxiv.org/abs/2406.12052)][[code](https://github.com/NYUSHCS/UniGLM)]
 - (*arXiv 2024.07*) GOFA: A Generative One-For-All Model for Joint Graph Language Modeling [[paper](https://arxiv.org/abs/2407.09709)][[code](https://github.com/JiaruiFeng/GOFA)]
-
+- (*arXiv 2024.10*) NT-LLM: A Novel Node Tokenizer for Integrating Graph Structure into Large Language Models [[paper](https://arxiv.org/abs/2410.10743)]
 
 
 ## Large Multimodal Models (LMMs)
@@ -91,8 +91,8 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 - (*arXiv 2023.10*) GraphLLM: Boosting Graph Reasoning Ability of Large Language Model [[paper](https://arxiv.org/abs/2310.05845)][[code](https://github.com/mistyreed63849/Graph-LLM)]
 - (*arXiv 2024.10*) GUNDAM: Aligning Large Language Models with Graph Understanding [[paper](https://arxiv.org/abs/2410.01457)]
 - (*arXiv 2024.10*) Are Large-Language Models Graph Algorithmic Reasoners? [[paper](https://arxiv.org/abs/2410.22597)][[code](https://github.com/ataylor24/MAGMA)]
-
-
+- (*arXiv 2024.10*) GCoder: Improving Large Language Model for Generalized Graph Problem Solving [[paper](https://arxiv.org/pdf/2410.19084)] [[code](https://github.com/Bklight999/WWW25-GCoder/tree/master)]
+- (*arXiv 2024.10*) GraphTeam: Facilitating Large Language Model-based Graph Analysis via Multi-Agent Collaboration [[paper](https://arxiv.org/abs/2410.18032)] [[code](https://github.com/BUPT-GAMMA/GraphTeam)]
 
 ### Node Classification
 - (*ICLR'24*) Explanations as Features: LLM-Based Features for Text-Attributed Graphs [[paper](https://arxiv.org/abs/2305.19523)][[code](https://github.com/XiaoxinHe/TAPE)]
@@ -114,7 +114,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 - (*arXiv 2024.07*) All Against Some: Efficient Integration of Large Language Models for Message Passing in Graph Neural Networks [[paper](https://arxiv.org/abs/2407.14996)]
 - (*arXiv 2024.10*) Let's Ask GNN: Empowering Large Language Model for Graph In-Context Learning [[paper](https://arxiv.org/abs/2410.07074)]
 - (*arXiv 2024.10*) Large Language Model-based Augmentation for Imbalanced Node Classification on Text-Attributed Graphs [[paper](https://arxiv.org/abs/2410.16882)]
-
+- (*arXiv 2024.10*) Enhance Graph Alignment for Large Language Models [[paper](https://arxiv.org/abs/2410.11370)]
 
 ### Graph Classification/Regression
 - (*arXiv 2023.06*) GIMLET: A Unified Graph-Text Model for Instruction-Based Molecule Zero-Shot Learning [[paper](https://arxiv.org/abs/2306.13089)][[code](https://github.com/zhao-ht/GIMLET)]
@@ -178,7 +178,8 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 - (*arXiv 2024.08*) CodexGraph: Bridging Large Language Models and Code Repositories via Code Graph Databases [[paper](https://arxiv.org/abs/2408.03910)][[code](https://github.com/modelscope/modelscope-agent/tree/master/apps/codexgraph_agent)][[project](https://laptype.github.io/CodexGraph-page/)]
 - (*arXiv 2024.10*) Graph Linearization Methods for Reasoning on Graphs with Large Language Models [[paper](https://arxiv.org/abs/2410.19494)]
 - (*arXiv 2024.10*) GraphRouter: A Graph-based Router for LLM Selections [[paper](https://arxiv.org/abs/2410.03834)][[code](https://github.com/ulab-uiuc/GraphRouter)]
-
+- (*arXiv 2024.10*) Graph of Records: Boosting Retrieval Augmented Generation for Long-context Summarization with Graphs [[paper](https://arxiv.org/abs/2410.11001)] [[code](https://github.com/ulab-uiuc/GoR)]
+- (*arXiv 2024.10*) G-Designer: Architecting Multi-agent Communication Topologies via Graph Neural Networks [[paper](https://arxiv.org/abs/2410.11782)] [[code](https://anonymous.4open.science/r/GDesigner-3063)]
 
 ## Resources & Tools
 - [GraphGPT: Extrapolating knowledge graphs from unstructured text using GPT-3](https://github.com/varunshenoy/GraphGPT)

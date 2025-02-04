@@ -47,7 +47,8 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 - (*arXiv 2024.10*) Can Graph Descriptive Order Affect Solving Graph Problems with LLMs? [[paper](https://arxiv.org/abs/2402.07140)]
 - (*arXiv 2024.10*) How Do Large Language Models Understand Graph Patterns? A Benchmark for Graph Pattern Comprehension [[paper](https://arxiv.org/abs/2410.05298v1)]
 - (*arXiv 2024.10*) GRS-QA - Graph Reasoning-Structured Question Answering Dataset [[paper](https://arxiv.org/abs/2411.00369)]
-- (*NeurIPS'24 D&B*) Can Large Language Models Analyze Graphs like Professionals? A Benchmark, Datasets and Models [[paper](https://arxiv.org/abs/2409.19667)] [[code](https://github.com/BUPT-GAMMA/ProGraph)] 
+- (*NeurIPS'24 D&B*) Can Large Language Models Analyze Graphs like Professionals? A Benchmark, Datasets and Models [[paper](https://arxiv.org/abs/2409.19667)] [[code](https://github.com/BUPT-GAMMA/ProGraph)]
+- (*arXiv 2025.02*) A Comprehensive Analysis on LLM-based Node Classification Algorithms [[paper](https://arxiv.org/abs/2502.00829)] [[code](https://github.com/WxxShirley/LLMNodeBed)] [[project papge](https://llmnodebed.github.io/)] 
   
 ## Prompting
 - (*EMNLP'23*) StructGPT: A General Framework for Large Language Model to Reason over Structured Data [[paper](https://arxiv.org/abs/2305.09645)][[code](https://github.com/RUCAIBox/StructGPT)]
@@ -116,6 +117,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 - (*arXiv 2024.10*) Let's Ask GNN: Empowering Large Language Model for Graph In-Context Learning [[paper](https://arxiv.org/abs/2410.07074)]
 - (*arXiv 2024.10*) Large Language Model-based Augmentation for Imbalanced Node Classification on Text-Attributed Graphs [[paper](https://arxiv.org/abs/2410.16882)]
 - (*arXiv 2024.10*) Enhance Graph Alignment for Large Language Models [[paper](https://arxiv.org/abs/2410.11370)]
+- (*arXiv 2025.02*) A Comprehensive Analysis on LLM-based Node Classification Algorithms [[paper](https://arxiv.org/abs/2502.00829)] [[code](https://github.com/WxxShirley/LLMNodeBed)] [[project papge](https://llmnodebed.github.io/)] 
 
 ### Graph Classification/Regression
 - (*arXiv 2023.06*) GIMLET: A Unified Graph-Text Model for Instruction-Based Molecule Zero-Shot Learning [[paper](https://arxiv.org/abs/2306.13089)][[code](https://github.com/zhao-ht/GIMLET)]

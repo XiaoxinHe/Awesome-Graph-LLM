@@ -18,7 +18,8 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
     - [Node Classification](#node-classification)
     - [Knowledge Graph](#knowledge-graph)
     - [Molecular Graph](#molecular-graph)
-    - [Graph Retrieval Augmented Generation](#graph-retrieval-augmented-generation)
+    - [Graph Retrieval Augmented Generation (GraphRAG)](#graph-retrieval-augmented-generation-graphrag)
+    - [Planning](#planning)
     - [Graph Robustness](#graph-robustness)
     - [Others](#others)
   - [Resources \& Tools](#resources--tools)
@@ -134,10 +135,10 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 - (*ACL'24*) Graph Language Models [[paper](https://aclanthology.org/2024.acl-long.245/)][[code](https://github.com/Heidelberg-NLP/GraphLanguageModels)]![GitHub Repo stars](https://img.shields.io/github/stars/Heidelberg-NLP/GraphLanguageModels?style=social)
 - (*ACL'24*) Large Language Models Can Learn Temporal Reasoning [[paper](https://arxiv.org/abs/2401.06853)][[code](https://github.com/xiongsiheng/TG-LLM)]![GitHub Repo stars](https://img.shields.io/github/stars/xiongsiheng/TG-LLM?style=social)
 - (*ACL'24*) Call Me When Necessary: LLMs can Efficiently and Faithfully Reason over Structured Environments [[paper](https://arxiv.org/abs/2403.08593)][[code](https://github.com/microsoft/Readi)]![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/Readi?style=social)
+- (*ACL'24*) MindMap: Knowledge Graph Prompting Sparks Graph of Thoughts in Large Language Models [[paper](https://arxiv.org/abs/2308.09729)][[code](https://github.com/wyl-willing/MindMap)]![GitHub Repo stars](https://img.shields.io/github/stars/wyl-willing/MindMap?style=social)
 - (*NAACL'24*) zrLLM: Zero-Shot Relational Learning on Temporal Knowledge Graphs with Large Language Models[[paper](https://arxiv.org/abs/2311.10112)]
 - (*arXiv 2023.04*) CodeKGC: Code Language Model for Generative Knowledge Graph Construction [[paper](https://arxiv.org/abs/2304.09048)][[code](https://github.com/zjunlp/DeepKE/tree/main/example/llm/CodeKGC)]
 - (*arXiv 2023.05*) Knowledge Graph Completion Models are Few-shot Learners: An Empirical Study of Relation Labeling in E-commerce with LLMs [[paper](https://arxiv.org/abs/2305.09858)]
-- (*arXiv 2023.08*) MindMap: Knowledge Graph Prompting Sparks Graph of Thoughts in Large Language Models [[paper](https://arxiv.org/abs/2308.09729)][[code](https://github.com/wyl-willing/MindMap)]![GitHub Repo stars](https://img.shields.io/github/stars/wyl-willing/MindMap?style=social)
 - (*arXiv 2023.10*) Faithful Path Language Modelling for Explainable Recommendation over Knowledge Graph [[paper](https://arxiv.org/abs/2310.16452)]
 - (*arXiv 2023.12*) KGLens: A Parameterized Knowledge Graph Solution to Assess What an LLM Does and Doesn’t Know [[paper](https://arxiv.org/abs/2312.11539)]
 - (*arXiv 2024.02*) Large Language Model Meets Graph Neural Network in Knowledge Distillation [[paper](https://arxiv.org/abs/2402.05894)]
@@ -157,7 +158,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 - (*arXiv 2024.06*) LLM and GNN are Complementary: Distilling LLM for Multimodal Graph Learning [[paper](https://arxiv.org/abs/2406.01032)]
 - (*arXiv 2024.10*) G2T-LLM: Graph-to-Tree Text Encoding for Molecule Generation with Fine-Tuned Large Language Models [[paper](https://arxiv.org/abs/2410.02198v1)]
 
-### Graph Retrieval Augmented Generation
+### Graph Retrieval Augmented Generation (GraphRAG)
 - (*NeurIPS'24*) G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering [[paper](https://arxiv.org/abs/2402.07630)][[code](https://github.com/XiaoxinHe/G-Retriever)][[blog](https://medium.com/@xxhe/graph-retrieval-augmented-generation-rag-beb19dc30424)]![GitHub Repo stars](https://img.shields.io/github/stars/XiaoxinHe/G-Retriever?style=social)
 - (*NeurIPS'24*) HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models [[paper](https://arxiv.org/abs/2405.14831)][[code](https://github.com/OSU-NLP-Group/HippoRAG)]![GitHub Repo stars](https://img.shields.io/github/stars/OSU-NLP-Group/HippoRAG?style=social)
 - (*arxiv 2024.04*) From Local to Global: A Graph RAG Approach to Query-Focused Summarization [[paper](https://arxiv.org/abs/2404.16130)]
@@ -166,18 +167,16 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 - (*arXiv 2024.10*) Graph of Records: Boosting Retrieval Augmented Generation for Long-context Summarization with Graphs [[paper](https://arxiv.org/abs/2410.11001)] [[code](https://github.com/ulab-uiuc/GoR)]![GitHub Repo stars](https://img.shields.io/github/stars/ulab-uiuc/GoR?style=social)
 - (*arXiv 2025.01*) Retrieval-Augmented Generation with Graphs (GraphRAG) [[paper](https://arxiv.org/pdf/2501.00309)][[code](https://github.com/Graph-RAG/GraphRAG/)]![GitHub Repo stars](https://img.shields.io/github/stars/Graph-RAG/GraphRAG?style=social)
 
+### Planning
+- (*NeurIPS'24*) Can Graph Learning Improve Planning in LLM-based Agents? [[paper](https://arxiv.org/abs/2405.19119)][[code](https://github.com/WxxShirley/GNN4TaskPlan)]![GitHub Repo stars](https://img.shields.io/github/stars/WxxShirley/GNN4TaskPlan?style=social)
+- (*ICML'24*) Graph-enhanced Large Language Models in Asynchronous Plan Reasoning [[paper](https://arxiv.org/abs/2402.02805)][[code](https://github.com/fangru-lin/graph-llm-asynchow-plan)]![GitHub Repo stars](https://img.shields.io/github/stars/fangru-lin/graph-llm-asynchow-plan?style=social)
 
 ### Graph Robustness
 - (*NeurIPS'24*) Intruding with Words: Towards Understanding Graph Injection Attacks at the Text Level [[paper](https://arxiv.org/abs/2405.16405)]
 - (*KDD'25*) Can Large Language Models Improve the Adversarial Robustness of Graph Neural Networks? [[paper](https://arxiv.org/pdf/2408.08685)][[code](https://github.com/zhongjian-zhang/LLM4RGNN)]![GitHub Repo stars](https://img.shields.io/github/stars/zhongjian-zhang/LLM4RGNN?style=social)
 - (*arXiv 2024.07*) Learning on Graphs with Large Language Models(LLMs): A Deep Dive into Model Robustness [[paper](https://arxiv.org/abs/2407.12068)][[code](https://github.com/KaiGuo20/GraphLLM_Robustness)]![GitHub Repo stars](https://img.shields.io/github/stars/KaiGuo20/GraphLLM_Robustness?style=social)
 
-### Planning
-- (*NeurIPS'24*) Can Graph Learning Improve Planning in LLM-based Agents? [[paper](https://arxiv.org/abs/2405.19119)][[code](https://github.com/WxxShirley/GNN4TaskPlan)]![GitHub Repo stars](https://img.shields.io/github/stars/WxxShirley/GNN4TaskPlan?style=social)
-- (*ICML'24*) Graph-enhanced Large Language Models in Asynchronous Plan Reasoning [[paper](https://arxiv.org/abs/2402.02805)][[code](https://github.com/fangru-lin/graph-llm-asynchow-plan)]![GitHub Repo stars](https://img.shields.io/github/stars/fangru-lin/graph-llm-asynchow-plan?style=social)
-
 ### Others
-
 - (*NeurIPS'24*) Microstructures and Accuracy of Graph Recall by Large Language Models [[paper](https://arxiv.org/abs/2402.11821)][[code](https://github.com/Abel0828/llm-graph-recall)]![GitHub Repo stars](https://img.shields.io/github/stars/Abel0828/llm-graph-recall?style=social)
 - (*WSDM'24*) LLMRec: Large Language Models with Graph Augmentation for Recommendation [[paper](https://arxiv.org/abs/2311.00423)][[code](https://github.com/HKUDS/LLMRec)][[blog in Chinese](https://mp.weixin.qq.com/s/aU-uzLWH6xfIuoon-Zq8Cg)]![GitHub Repo stars](https://img.shields.io/github/stars/HKUDS/LLMRec?style=social)
 - (*KDD'24*) LLM4DyG: Can Large Language Models Solve Problems on Dynamic Graphs? [[paper](https://arxiv.org/abs/2310.17110)][[code](https://github.com/wondergo2017/LLM4DyG)]![GitHub Repo stars](https://img.shields.io/github/stars/wondergo2017/LLM4DyG?style=social)

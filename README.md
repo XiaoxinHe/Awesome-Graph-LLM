@@ -20,6 +20,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
     - [Molecular Graph](#molecular-graph)
     - [Graph Retrieval Augmented Generation (GraphRAG)](#graph-retrieval-augmented-generation-graphrag)
     - [Planning](#planning)
+    - [Multi-agent Systems](#multi-agent-systems)
     - [Graph Robustness](#graph-robustness)
     - [Others](#others)
   - [Resources \& Tools](#resources--tools)
@@ -44,7 +45,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 - (*arXiv 2023.10*) Towards Graph Foundation Models: A Survey and Beyond [[paper](https://arxiv.org/abs/2310.11829v1)]
 - (*arXiv 2024.02*) Towards Versatile Graph Learning Approach: from the Perspective of Large Language Models [[paper](https://arxiv.org/abs/2402.11641)]
 - (*arXiv 2024.04*) Graph Machine Learning in the Era of Large Language Models (LLMs) [[paper](https://arxiv.org/abs/2404.14928)]
-- (*arXiv 2024.10*) How Do Large Language Models Understand Graph Patterns? A Benchmark for Graph Pattern Comprehension [[paper](https://arxiv.org/abs/2410.05298v1)]
+- (*ICLR'25*) How Do Large Language Models Understand Graph Patterns? A Benchmark for Graph Pattern Comprehension [[paper](https://arxiv.org/abs/2410.05298v1)]
 - (*arXiv 2024.10*) GRS-QA - Graph Reasoning-Structured Question Answering Dataset [[paper](https://arxiv.org/abs/2411.00369)]
 - (*arXiv 2024.12*) Large Language Models Meet Graph Neural Networks: A Perspective of Graph Mining [[paper](https://arxiv.org/abs/2412.19211)]
 - (*arxiv 2025.01*) Graph2text or Graph2token: A Perspective of Large Language Models for Graph Learning [[paper](https://arxiv.org/abs/2501.01124)]
@@ -95,6 +96,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 - (*arXiv 2024.10*) Are Large-Language Models Graph Algorithmic Reasoners? [[paper](https://arxiv.org/abs/2410.22597)][[code](https://github.com/ataylor24/MAGMA)]![GitHub Repo stars](https://img.shields.io/github/stars/ataylor24/MAGMA?style=social)
 - (*arXiv 2024.10*) GCoder: Improving Large Language Model for Generalized Graph Problem Solving [[paper](https://arxiv.org/pdf/2410.19084)] [[code](https://github.com/Bklight999/WWW25-GCoder)]![GitHub Repo stars](https://img.shields.io/github/stars/Bklight999/WWW25-GCoder?style=social)
 - (*arXiv 2024.10*) GraphTeam: Facilitating Large Language Model-based Graph Analysis via Multi-Agent Collaboration [[paper](https://arxiv.org/abs/2410.18032)] [[code](https://github.com/BUPT-GAMMA/GraphTeam)]![GitHub Repo stars](https://img.shields.io/github/stars/BUPT-GAMMA/GraphTeam?style=social)
+- (*ICLR'25*) GraphArena: Evaluating and Exploring Large Language Models on Graph Computation [[paper](https://openreview.net/forum?id=Y1r9yCMzeA)] [[code](https://github.com/squareRoot3/GraphArena)]![GitHub Repo stars](https://img.shields.io/github/stars/squareRoot3/GraphArena?style=social)
 
 ### Node Classification
 - (*ICLR'24*) Explanations as Features: LLM-Based Features for Text-Attributed Graphs [[paper](https://arxiv.org/abs/2305.19523)][[code](https://github.com/XiaoxinHe/TAPE)]![GitHub Repo stars](https://img.shields.io/github/stars/XiaoxinHe/TAPE?style=social)
@@ -166,10 +168,21 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 - (*arXiv 2024.06*) GNN-RAG: Graph Neural Retrieval for Large Language Modeling Reasoning [[paper](https://arxiv.org/abs/2405.20139)][[code](https://github.com/cmavro/GNN-RAG)]![GitHub Repo stars](https://img.shields.io/github/stars/cmavro/GNN-RAG?style=social)
 - (*arXiv 2024.10*) Graph of Records: Boosting Retrieval Augmented Generation for Long-context Summarization with Graphs [[paper](https://arxiv.org/abs/2410.11001)] [[code](https://github.com/ulab-uiuc/GoR)]![GitHub Repo stars](https://img.shields.io/github/stars/ulab-uiuc/GoR?style=social)
 - (*arXiv 2025.01*) Retrieval-Augmented Generation with Graphs (GraphRAG) [[paper](https://arxiv.org/pdf/2501.00309)][[code](https://github.com/Graph-RAG/GraphRAG/)]![GitHub Repo stars](https://img.shields.io/github/stars/Graph-RAG/GraphRAG?style=social)
+- (*WWW'25*) G-Refer: Graph Retrieval-Augmented Large Language Model for Explainable Recommendation [[paper](https://openreview.net/forum?id=JSSeMdhsye)]
+- (*arXiv 2025.02*) GFM-RAG: Graph Foundation Model for Retrieval Augmented Generation [[paper](https://arxiv.org/abs/2502.01113)] [[code](https://github.com/RManLuo/gfm-rag)]![GitHub Repo stars](https://img.shields.io/github/stars/RManLuo/gfm-rag?style=social)
 
 ### Planning
 - (*NeurIPS'24*) Can Graph Learning Improve Planning in LLM-based Agents? [[paper](https://arxiv.org/abs/2405.19119)][[code](https://github.com/WxxShirley/GNN4TaskPlan)]![GitHub Repo stars](https://img.shields.io/github/stars/WxxShirley/GNN4TaskPlan?style=social)
 - (*ICML'24*) Graph-enhanced Large Language Models in Asynchronous Plan Reasoning [[paper](https://arxiv.org/abs/2402.02805)][[code](https://github.com/fangru-lin/graph-llm-asynchow-plan)]![GitHub Repo stars](https://img.shields.io/github/stars/fangru-lin/graph-llm-asynchow-plan?style=social)
+- (*ICLR'25*) Benchmarking Agentic Workflow Generation [[paper](https://arxiv.org/abs/2410.07869)] [[code](https://github.com/zjunlp/WorFBench)]![GitHub Repo stars](https://img.shields.io/github/stars/zjunlp/WorFBench?style=social)
+
+### Multi-agent Systems 
+- (*ICML'24*) GPTSwarm: Language Agents as Optimizable Graphs [[paper](https://arxiv.org/abs/2402.16823)] [[code](https://github.com/metauto-ai/GPTSwarm)]![GitHub Repo stars](https://img.shields.io/github/stars/metauto-ai/GPTSwarm?style=social)
+- (*ICLR'25*) Scaling Large-Language-Model-based Multi-Agent Collaboration [[paper](https://arxiv.org/abs/2406.07155)] [[code](https://github.com/OpenBMB/ChatDev)]![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/ChatDev?style=social)
+- (*ICLR'25*) Cut the Crap: An Economical Communication Pipeline for LLM-based Multi-Agent Systems [[paper](https://arxiv.org/abs/2410.02506)] [[code](https://github.com/yanweiyue/AgentPrune)]![GitHub Repo stars](https://img.shields.io/github/stars/yanweiyue/AgentPrune?style=social)
+- (*arXiv 2024.10*) G-Designer: Architecting Multi-agent Communication Topologies via Graph Neural Networks [[paper](https://arxiv.org/abs/2410.11782)] [[code](https://github.com/yanweiyue/GDesigner)]![GitHub Repo stars](https://img.shields.io/github/stars/yanweiyue/GDesigner?style=social)
+- (*arXiv 2025.02*) EvoFlow: Evolving Diverse Agentic Workflows On The Fly [[paper](https://arxiv.org/abs/2502.07373)]
+  
 
 ### Graph Robustness
 - (*NeurIPS'24*) Intruding with Words: Towards Understanding Graph Injection Attacks at the Text Level [[paper](https://arxiv.org/abs/2405.16405)]
@@ -195,7 +208,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 - (*arXiv 2024.08*) CodexGraph: Bridging Large Language Models and Code Repositories via Code Graph Databases [[paper](https://arxiv.org/abs/2408.03910)][[code](https://github.com/modelscope/modelscope-agent/tree/master/apps/codexgraph_agent)][[project](https://laptype.github.io/CodexGraph-page/)]
 - (*arXiv 2024.10*) Graph Linearization Methods for Reasoning on Graphs with Large Language Models [[paper](https://arxiv.org/abs/2410.19494)]
 - (*arXiv 2024.10*) GraphRouter: A Graph-based Router for LLM Selections [[paper](https://arxiv.org/abs/2410.03834)][[code](https://github.com/ulab-uiuc/GraphRouter)]![GitHub Repo stars](https://img.shields.io/github/stars/ulab-uiuc/GraphRouter?style=social)
-- (*arXiv 2024.10*) G-Designer: Architecting Multi-agent Communication Topologies via Graph Neural Networks [[paper](https://arxiv.org/abs/2410.11782)] [[code](https://anonymous.4open.science/r/GDesigner-3063)]
+- (*ICLR'25*) RepoGraph: Enhancing AI Software Engineering with Repository-level Code Graph [[paper](https://arxiv.org/abs/2410.14684)] [[code](https://github.com/ozyyshr/RepoGraph)]![GitHub Repo stars](https://img.shields.io/github/stars/ozyyshr/RepoGraph?style=social)
 
 ## Resources & Tools
 - [GraphGPT: Extrapolating knowledge graphs from unstructured text using GPT-3](https://github.com/varunshenoy/GraphGPT)

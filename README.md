@@ -124,6 +124,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 - (*arXiv 2024.10*) Enhance Graph Alignment for Large Language Models [[paper](https://arxiv.org/abs/2410.11370)]
 - (*arXiv 2025.01*) Each Graph is a New Language: Graph Learning with LLMs [[paper](https://arxiv.org/abs/2501.11478)]
 - (*arXiv 2025.02*) A Comprehensive Analysis on LLM-based Node Classification Algorithms [[paper](https://arxiv.org/abs/2502.00829)][[code](https://github.com/WxxShirley/LLMNodeBed)] [[project papge](https://llmnodebed.github.io/)]![GitHub Repo stars](https://img.shields.io/github/stars/WxxShirley/LLMNodeBed?style=social)
+- (*arXiv 2025.02*) How to Make LLMs Strong Node Classifiers? [[paper](https://arxiv.org/abs/2410.02296)]
 
 
 ### Knowledge Graph

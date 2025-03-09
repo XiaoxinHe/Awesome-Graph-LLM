@@ -20,7 +20,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
     - [Molecular Graph](#molecular-graph)
     - [Graph Retrieval Augmented Generation (GraphRAG)](#graph-retrieval-augmented-generation-graphrag)
     - [Planning](#planning)
-    - [Multi-agent Systems](#multi-agent-systems)
+    - [Multi-Agent Systems](#multi-agent-systems)
     - [Graph Robustness](#graph-robustness)
     - [Others](#others)
   - [Resources \& Tools](#resources--tools)
@@ -50,6 +50,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 - (*arXiv 2024.12*) Large Language Models Meet Graph Neural Networks: A Perspective of Graph Mining [[paper](https://arxiv.org/abs/2412.19211)]
 - (*arxiv 2025.01*) Graph2text or Graph2token: A Perspective of Large Language Models for Graph Learning [[paper](https://arxiv.org/abs/2501.01124)]
 - (*arXiv 2025.02*) A Comprehensive Analysis on LLM-based Node Classification Algorithms [[paper](https://arxiv.org/abs/2502.00829)] [[code](https://github.com/WxxShirley/LLMNodeBed)] [[project papge](https://llmnodebed.github.io/)]![GitHub Repo stars](https://img.shields.io/github/stars/WxxShirley/LLMNodeBed?style=social)
+- (*arXiv 2025.02*) Exploring Graph Tasks with Pure LLMs: A Comprehensive Benchmark and Investigation [[paper](https://arxiv.org/abs/2502.18771)][[code](https://github.com/myflashbarry/LLM-benchmarking)]![GitHub Repo stars](https://img.shields.io/github/stars/myflashbarry/LLM-benchmarking?style=social)
 
 
 ## Prompting
@@ -73,17 +74,21 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 - (*ACL'24*) InstructGraph: Boosting Large Language Models via Graph-centric Instruction Tuning and Preference Alignment [[paper](https://arxiv.org/abs/2402.08785)][[code](https://github.com/wjn1996/InstructGraph)]![GitHub Repo stars](https://img.shields.io/github/stars/wjn1996/InstructGraph?style=social)
 - (*EACL'24'*) Natural Language is All a Graph Needs [[paper](https://arxiv.org/abs/2308.07134)][[code](https://github.com/agiresearch/InstructGLM)]![GitHub Repo stars](https://img.shields.io/github/stars/agiresearch/InstructGLM?style=social)
 - (*KDD'25*) UniGraph: Learning a Cross-Domain Graph Foundation Model From Natural Language [[paper](https://arxiv.org/abs/2402.13630)]
+- (*WSDM '25*) UniGLM: Training One Unified Language Model for Text-Attributed Graph Embedding [[paper](https://arxiv.org/abs/2406.12052)][[code](https://github.com/NYUSHCS/UniGLM)]![GitHub Repo stars](https://img.shields.io/github/stars/NYUSHCS/UniGLM?style=social)
 - (*arXiv 2023.10*) Graph Agent: Explicit Reasoning Agent for Graphs [[paper](https://arxiv.org/abs/2310.16421)]
 - (*arXiv 2024.02*) Let Your Graph Do the Talking: Encoding Structured Data for LLMs [[paper](https://arxiv.org/abs/2402.05862)]
 - (*arXiv 2024.06*) UniGLM: Training One Unified Language Model for Text-Attributed Graphs [[paper](https://arxiv.org/abs/2406.12052)][[code](https://github.com/NYUSHCS/UniGLM)]![GitHub Repo stars](https://img.shields.io/github/stars/NYUSHCS/UniGLM?style=social)
 - (*arXiv 2024.07*) GOFA: A Generative One-For-All Model for Joint Graph Language Modeling [[paper](https://arxiv.org/abs/2407.09709)][[code](https://github.com/JiaruiFeng/GOFA)]![GitHub Repo stars](https://img.shields.io/github/stars/JiaruiFeng/GOFA?style=social)
 - (*arXiv 2024.08*) AnyGraph: Graph Foundation Model in the Wild [[paper](https://arxiv.org/abs/2408.10700)][[code](https://github.com/HKUDS/AnyGraph)]![GitHub Repo stars](https://img.shields.io/github/stars/HKUDS/AnyGraph?style=social)
 - (*arXiv 2024.10*) NT-LLM: A Novel Node Tokenizer for Integrating Graph Structure into Large Language Models [[paper](https://arxiv.org/abs/2410.10743)]
+- (*arXiv 2025.03*) LLM as GNN: Graph Vocabulary Learning for Text-Attributed Graph Foundation Models [[paper](https://arxiv.org/abs/2503.03313)]
+
 
 ## Large Multimodal Models (LMMs)
 - (*NeurIPS'23*) GraphAdapter: Tuning Vision-Language Models With Dual Knowledge Graph [[paper](https://arxiv.org/abs/2309.13625)][[code](https://github.com/lixinustc/GraphAdapter)]![GitHub Repo stars](https://img.shields.io/github/stars/lixinustc/GraphAdapter?style=social)
 - (*NeurIPS'24*) GITA: Graph to Visual and Textual Integration for Vision-Language Graph Reasoning [[paper](https://arxiv.org/abs/2402.02130)][[code](https://github.com/WEIYanbin1999/GITA)][[project](https://v-graph.github.io/)]![GitHub Repo stars](https://img.shields.io/github/stars/WEIYanbin1999/GITA?style=social)
 - (*ACL 2024*) Graph Language Models [[paper](https://aclanthology.org/2024.acl-long.245/)][[code](https://github.com/Heidelberg-NLP/GraphLanguageModels)]![GitHub Repo stars](https://img.shields.io/github/stars/Heidelberg-NLP/GraphLanguageModels?style=social)
+- (*WWW'25*) UniGraph2: Learning a Unified Embedding Space to Bind Multimodal Graphs [[paper](https://arxiv.org/abs/2502.00806)]
 - (*arXiv 2023.10*) Multimodal Graph Learning for Generative Tasks [[paper](https://arxiv.org/abs/2310.07478)][[code](https://github.com/minjiyoon/MMGL)]![GitHub Repo stars](https://img.shields.io/github/stars/minjiyoon/MMGL?style=social)
 
 
@@ -174,18 +179,20 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 - (*arXiv 2025.01*) Retrieval-Augmented Generation with Graphs (GraphRAG) [[paper](https://arxiv.org/pdf/2501.00309)][[code](https://github.com/Graph-RAG/GraphRAG/)]![GitHub Repo stars](https://img.shields.io/github/stars/Graph-RAG/GraphRAG?style=social)
 - (*arXiv 2025.02*) GFM-RAG: Graph Foundation Model for Retrieval Augmented Generation [[paper](https://arxiv.org/abs/2502.01113)] [[code](https://github.com/RManLuo/gfm-rag)]![GitHub Repo stars](https://img.shields.io/github/stars/RManLuo/gfm-rag?style=social)
 - (*arXiv 2025.02*) Are Large Language Models In-Context Graph Learners? [[paper](https://arxiv.org/pdf/2502.13562)]
+- (*arXiv 2025.03*) Graph-Augmented Reasoning: Evolving Step-by-Step Knowledge Graph Retrieval for LLM Reasoning [[paper](https://arxiv.org/abs/2503.01642)]
 
 ### Planning
 - (*NeurIPS'24*) Can Graph Learning Improve Planning in LLM-based Agents? [[paper](https://arxiv.org/abs/2405.19119)][[code](https://github.com/WxxShirley/GNN4TaskPlan)]![GitHub Repo stars](https://img.shields.io/github/stars/WxxShirley/GNN4TaskPlan?style=social)
 - (*ICML'24*) Graph-enhanced Large Language Models in Asynchronous Plan Reasoning [[paper](https://arxiv.org/abs/2402.02805)][[code](https://github.com/fangru-lin/graph-llm-asynchow-plan)]![GitHub Repo stars](https://img.shields.io/github/stars/fangru-lin/graph-llm-asynchow-plan?style=social)
 - (*ICLR'25*) Benchmarking Agentic Workflow Generation [[paper](https://arxiv.org/abs/2410.07869)] [[code](https://github.com/zjunlp/WorFBench)]![GitHub Repo stars](https://img.shields.io/github/stars/zjunlp/WorFBench?style=social)
 
-### Multi-agent Systems 
+### Multi-Agent Systems
 - (*ICML'24*) GPTSwarm: Language Agents as Optimizable Graphs [[paper](https://arxiv.org/abs/2402.16823)] [[code](https://github.com/metauto-ai/GPTSwarm)]![GitHub Repo stars](https://img.shields.io/github/stars/metauto-ai/GPTSwarm?style=social)
 - (*ICLR'25*) Scaling Large-Language-Model-based Multi-Agent Collaboration [[paper](https://arxiv.org/abs/2406.07155)] [[code](https://github.com/OpenBMB/ChatDev)]![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/ChatDev?style=social)
 - (*ICLR'25*) Cut the Crap: An Economical Communication Pipeline for LLM-based Multi-Agent Systems [[paper](https://arxiv.org/abs/2410.02506)] [[code](https://github.com/yanweiyue/AgentPrune)]![GitHub Repo stars](https://img.shields.io/github/stars/yanweiyue/AgentPrune?style=social)
 - (*arXiv 2024.10*) G-Designer: Architecting Multi-agent Communication Topologies via Graph Neural Networks [[paper](https://arxiv.org/abs/2410.11782)] [[code](https://github.com/yanweiyue/GDesigner)]![GitHub Repo stars](https://img.shields.io/github/stars/yanweiyue/GDesigner?style=social)
 - (*arXiv 2025.02*) EvoFlow: Evolving Diverse Agentic Workflows On The Fly [[paper](https://arxiv.org/abs/2502.07373)]
+- (*arXiv 2025.02*) MA-GTS: A Multi-Agent Framework for Solving Complex Graph Problems in Real-World Applications [[paper](https://arxiv.org/abs/2502.18540)][[code](https://github.com/ZIKEYUAN/MA-GTS)]![GitHub Repo stars](https://img.shields.io/github/stars/ZIKEYUAN/MA-GTS?style=social)
   
 
 ### Graph Robustness

@@ -171,6 +171,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 ### Graph Retrieval Augmented Generation (GraphRAG)
 - (*NeurIPS'24*) G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering [[paper](https://arxiv.org/abs/2402.07630)][[code](https://github.com/XiaoxinHe/G-Retriever)][[blog](https://medium.com/@xxhe/graph-retrieval-augmented-generation-rag-beb19dc30424)]![GitHub Repo stars](https://img.shields.io/github/stars/XiaoxinHe/G-Retriever?style=social)
 - (*NeurIPS'24*) HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models [[paper](https://arxiv.org/abs/2405.14831)][[code](https://github.com/OSU-NLP-Group/HippoRAG)]![GitHub Repo stars](https://img.shields.io/github/stars/OSU-NLP-Group/HippoRAG?style=social)
+- (*ICLR'25*) Simple Is Effective: The Roles of Graphs and Large Language Models in Knowledge-Graph-Based Retrieval-Augmented Generation [[paper](https://arxiv.org/abs/2410.20724)][[code](https://github.com/Graph-COM/SubgraphRAG)]![GitHub Repo stars](https://img.shields.io/github/stars/Graph-COM/SubgraphRAG?style=social)
 - (*WWW'25*) G-Refer: Graph Retrieval-Augmented Large Language Model for Explainable Recommendation [[paper](https://openreview.net/forum?id=JSSeMdhsye)]
 - (*arxiv 2024.04*) From Local to Global: A Graph RAG Approach to Query-Focused Summarization [[paper](https://arxiv.org/abs/2404.16130)]
 - (*arXiv 2024.05*) Don't Forget to Connect! Improving RAG with Graph-based Reranking [[paper](https://arxiv.org/abs/2405.18414)]
@@ -179,7 +180,10 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 - (*arXiv 2025.01*) Retrieval-Augmented Generation with Graphs (GraphRAG) [[paper](https://arxiv.org/pdf/2501.00309)][[code](https://github.com/Graph-RAG/GraphRAG/)]![GitHub Repo stars](https://img.shields.io/github/stars/Graph-RAG/GraphRAG?style=social)
 - (*arXiv 2025.02*) GFM-RAG: Graph Foundation Model for Retrieval Augmented Generation [[paper](https://arxiv.org/abs/2502.01113)] [[code](https://github.com/RManLuo/gfm-rag)]![GitHub Repo stars](https://img.shields.io/github/stars/RManLuo/gfm-rag?style=social)
 - (*arXiv 2025.02*) Are Large Language Models In-Context Graph Learners? [[paper](https://arxiv.org/pdf/2502.13562)]
+- (*arXiv 2025.02*) ArchRAG: Attributed Community-based Hierarchical Retrieval-Augmented Generation [[paper](https://arxiv.org/abs/2502.09891)]
 - (*arXiv 2025.03*) Graph-Augmented Reasoning: Evolving Step-by-Step Knowledge Graph Retrieval for LLM Reasoning [[paper](https://arxiv.org/abs/2503.01642)]
+- (*arXiv 2025.03*) In-depth Analysis of Graph-based RAG in a Unified Framework [[paper](https://www.arxiv.org/abs/2503.04338)][[code](https://github.com/JayLZhou/GraphRAG)]![GitHub Repo stars](https://img.shields.io/github/stars/JayLZhou/GraphRAG?style=social)
+
 
 ### Planning
 - (*NeurIPS'24*) Can Graph Learning Improve Planning in LLM-based Agents? [[paper](https://arxiv.org/abs/2405.19119)][[code](https://github.com/WxxShirley/GNN4TaskPlan)]![GitHub Repo stars](https://img.shields.io/github/stars/WxxShirley/GNN4TaskPlan?style=social)

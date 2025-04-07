@@ -181,6 +181,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 - (*arXiv 2025.02*) GFM-RAG: Graph Foundation Model for Retrieval Augmented Generation [[paper](https://arxiv.org/abs/2502.01113)] [[code](https://github.com/RManLuo/gfm-rag)]![GitHub Repo stars](https://img.shields.io/github/stars/RManLuo/gfm-rag?style=social)
 - (*arXiv 2025.02*) Are Large Language Models In-Context Graph Learners? [[paper](https://arxiv.org/pdf/2502.13562)]
 - (*arXiv 2025.02*) ArchRAG: Attributed Community-based Hierarchical Retrieval-Augmented Generation [[paper](https://arxiv.org/abs/2502.09891)]
+- (*arXiv 2025.02*) BioMaze: Benchmarking and Enhancing Large Language Models for Biological Pathway Reasoning [[paper](https://arxiv.org/abs/2502.16660)][[code](https://github.com/zhao-ht/BioMaze)]![GitHub Repo stars](https://img.shields.io/github/stars/zhao-ht/BioMaze?style=social)
 - (*arXiv 2025.03*) Graph-Augmented Reasoning: Evolving Step-by-Step Knowledge Graph Retrieval for LLM Reasoning [[paper](https://arxiv.org/abs/2503.01642)]
 - (*arXiv 2025.03*) In-depth Analysis of Graph-based RAG in a Unified Framework [[paper](https://www.arxiv.org/abs/2503.04338)][[code](https://github.com/JayLZhou/GraphRAG)]![GitHub Repo stars](https://img.shields.io/github/stars/JayLZhou/GraphRAG?style=social)
 

@@ -37,9 +37,13 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 - (*NAACL'24*) Can Knowledge Graphs Reduce Hallucinations in LLMs? : A Survey [[paper](https://arxiv.org/abs/2311.07914v1)]
 - (*NeurIPS'24 D&B*) Can Large Language Models Analyze Graphs like Professionals? A Benchmark, Datasets and Models [[paper](https://arxiv.org/abs/2409.19667)][[code](https://github.com/BUPT-GAMMA/ProGraph)]![GitHub Repo stars](https://img.shields.io/github/stars/BUPT-GAMMA/ProGraph?style=social)
 - (*NeurIPS'24 D&B*) GLBench: A Comprehensive Benchmark for Graph with Large Language Models [[paper](https://arxiv.org/abs/2407.07457)][[code](https://github.com/NineAbyss/GLBench)]![GitHub Repo stars](https://img.shields.io/github/stars/NineAbyss/GLBench?style=social)
+- (*NeurIPS'24 D&B*) DTGB: A Comprehensive Benchmark for Dynamic Text-Attributed Graphs [[paper](https://arxiv.org/abs/2406.12072)][[code](https://github.com/zjs123/DTGB)]![GitHub Repo stars](https://img.shields.io/github/stars/zjs123/DTGB?style=social)
+- (*NeurIPS'24 D&B*) UKnow: A Unified Knowledge Protocol with Multimodal Knowledge Graph Datasets for Reasoning and Vision-Language Pre-Training [[paper](https://arxiv.org/abs/2302.06891)]
 - (*KDD'24*) A Survey of Large Language Models for Graphs [[paper](https://arxiv.org/abs/2405.08011)][[code](https://github.com/HKUDS/Awesome-LLM4Graph-Papers)]![GitHub Repo stars](https://img.shields.io/github/stars/HKUDS/Awesome-LLM4Graph-Papers?style=social)
 - (*IJCAI'24*) A Survey of Graph Meets Large Language Model: Progress and Future Directions [[paper](https://arxiv.org/abs/2311.12399)][[code](https://github.com/yhLeeee/Awesome-LLMs-in-Graph-tasks)]![GitHub Repo stars](https://img.shields.io/github/stars/yhLeeee/Awesome-LLMs-in-Graph-tasks?style=social)
 - (*TKDE'24*) Large Language Models on Graphs: A Comprehensive Survey [[paper](https://arxiv.org/abs/2312.02783)][[code](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs)]![GitHub Repo stars](https://img.shields.io/github/stars/PeterGriffinJin/Awesome-Language-Model-on-Graphs?style=social)
+- (*ICLR'25*) GraphArena: Evaluating and Exploring Large Language Models on Graph Computation [[paper](https://arxiv.org/abs/2407.00379)][[code](https://github.com/squareRoot3/GraphArena)]![GitHub Repo stars](https://img.shields.io/github/stars/squareRoot3/GraphArena?style=social)
+- (*ICLR'25*) How Do Large Language Models Understand Graph Patterns? A Benchmark for Graph Pattern Comprehension [[paper](https://arxiv.org/abs/2410.05298)]
 - (*arxiv 2023.05*) GPT4Graph: Can Large Language Models Understand Graph Structured Data? An Empirical Evaluation and Benchmarking [[paper](https://arxiv.org/abs/2305.15066)]
 - (*arXiv 2023.08*) Graph Meets LLMs: Towards Large Graph Models [[paper](http://arxiv.org/abs/2308.14522)]
 - (*arXiv 2023.10*) Towards Graph Foundation Models: A Survey and Beyond [[paper](https://arxiv.org/abs/2310.11829v1)]
@@ -75,18 +79,20 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 - (*EACL'24'*) Natural Language is All a Graph Needs [[paper](https://arxiv.org/abs/2308.07134)][[code](https://github.com/agiresearch/InstructGLM)]![GitHub Repo stars](https://img.shields.io/github/stars/agiresearch/InstructGLM?style=social)
 - (*KDD'25*) UniGraph: Learning a Cross-Domain Graph Foundation Model From Natural Language [[paper](https://arxiv.org/abs/2402.13630)]
 - (*WSDM '25*) UniGLM: Training One Unified Language Model for Text-Attributed Graph Embedding [[paper](https://arxiv.org/abs/2406.12052)][[code](https://github.com/NYUSHCS/UniGLM)]![GitHub Repo stars](https://img.shields.io/github/stars/NYUSHCS/UniGLM?style=social)
+- (*ICLR'25*) GOFA: A Generative One-For-All Model for Joint Graph Language Modeling [[paper](https://arxiv.org/abs/2407.09709)][[code](https://github.com/JiaruiFeng/GOFA)]![GitHub Repo stars](https://img.shields.io/github/stars/JiaruiFeng/GOFA?style=social)
 - (*arXiv 2023.10*) Graph Agent: Explicit Reasoning Agent for Graphs [[paper](https://arxiv.org/abs/2310.16421)]
 - (*arXiv 2024.02*) Let Your Graph Do the Talking: Encoding Structured Data for LLMs [[paper](https://arxiv.org/abs/2402.05862)]
 - (*arXiv 2024.06*) UniGLM: Training One Unified Language Model for Text-Attributed Graphs [[paper](https://arxiv.org/abs/2406.12052)][[code](https://github.com/NYUSHCS/UniGLM)]![GitHub Repo stars](https://img.shields.io/github/stars/NYUSHCS/UniGLM?style=social)
-- (*arXiv 2024.07*) GOFA: A Generative One-For-All Model for Joint Graph Language Modeling [[paper](https://arxiv.org/abs/2407.09709)][[code](https://github.com/JiaruiFeng/GOFA)]![GitHub Repo stars](https://img.shields.io/github/stars/JiaruiFeng/GOFA?style=social)
 - (*arXiv 2024.08*) AnyGraph: Graph Foundation Model in the Wild [[paper](https://arxiv.org/abs/2408.10700)][[code](https://github.com/HKUDS/AnyGraph)]![GitHub Repo stars](https://img.shields.io/github/stars/HKUDS/AnyGraph?style=social)
 - (*arXiv 2024.10*) NT-LLM: A Novel Node Tokenizer for Integrating Graph Structure into Large Language Models [[paper](https://arxiv.org/abs/2410.10743)]
 - (*arXiv 2025.03*) LLM as GNN: Graph Vocabulary Learning for Text-Attributed Graph Foundation Models [[paper](https://arxiv.org/abs/2503.03313)]
 
 
+
 ## Large Multimodal Models (LMMs)
 - (*NeurIPS'23*) GraphAdapter: Tuning Vision-Language Models With Dual Knowledge Graph [[paper](https://arxiv.org/abs/2309.13625)][[code](https://github.com/lixinustc/GraphAdapter)]![GitHub Repo stars](https://img.shields.io/github/stars/lixinustc/GraphAdapter?style=social)
 - (*NeurIPS'24*) GITA: Graph to Visual and Textual Integration for Vision-Language Graph Reasoning [[paper](https://arxiv.org/abs/2402.02130)][[code](https://github.com/WEIYanbin1999/GITA)][[project](https://v-graph.github.io/)]![GitHub Repo stars](https://img.shields.io/github/stars/WEIYanbin1999/GITA?style=social)
+- (*NeurIPS'24*) GraphVis: Boosting LLMs with Visual Knowledge Graph Integration [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/7cb04f510593c9ba30da398f5e0a7e7b-Paper-Conference.pdf)][[code](https://github.com/yihedeng9/GraphVis)]![GitHub Repo stars](https://img.shields.io/github/stars/yihedeng9/GraphVis?style=social)
 - (*ACL 2024*) Graph Language Models [[paper](https://aclanthology.org/2024.acl-long.245/)][[code](https://github.com/Heidelberg-NLP/GraphLanguageModels)]![GitHub Repo stars](https://img.shields.io/github/stars/Heidelberg-NLP/GraphLanguageModels?style=social)
 - (*WWW'25*) UniGraph2: Learning a Unified Embedding Space to Bind Multimodal Graphs [[paper](https://arxiv.org/abs/2502.00806)]
 - (*arXiv 2023.10*) Multimodal Graph Learning for Generative Tasks [[paper](https://arxiv.org/abs/2310.07478)][[code](https://github.com/minjiyoon/MMGL)]![GitHub Repo stars](https://img.shields.io/github/stars/minjiyoon/MMGL?style=social)
@@ -139,7 +145,13 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 - (*TKDE‘23*) AutoAlign: Fully Automatic and Effective Knowledge Graph Alignment enabled by Large Language Models [[paper](https://arxiv.org/abs/2307.11772)][[code](https://github.com/ruizhang-ai/AutoAlign)]![GitHub Repo stars](https://img.shields.io/github/stars/ruizhang-ai/AutoAlign?style=social)
 - (*ICLR'24*) Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph [[paper](https://arxiv.org/abs/2307.07697)][[code](https://github.com/IDEA-FinAI/ToG)]![GitHub Repo stars](https://img.shields.io/github/stars/IDEA-FinAI/ToG?style=social)
 - (*ICLR‘24*) Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning [[paper](https://arxiv.org/abs/2310.01061)][[code](https://github.com/RManLuo/reasoning-on-graphs)]![GitHub Repo stars](https://img.shields.io/github/stars/RManLuo/reasoning-on-graphs?style=social)
-- (*AAAI'24*) Graph Neural Prompting with Large Language Models [[paper](https://arxiv.org/abs/2309.15427)][[code](https://github.com/meettyj/GNP)]
+- (*NeurIPS'24*) Construction and Application of Materials Knowledge Graph in Multidisciplinary Materials Science via Large Language Model [[paper](https://arxiv.org/abs/2404.03080)][[code](https://github.com/MasterAI-EAM/Material-Knowledge-Graph)]![GitHub Repo stars](https://img.shields.io/github/stars/MasterAI-EAM/Material-Knowledge-Graph?style=social)
+- (*NeurIPS'24*) KG-FIT: Knowledge Graph Fine-Tuning Upon Open-World Knowledge [[paper](https://arxiv.org/abs/2405.16412)][[code](https://github.com/pat-jj/KG-FIT)]![GitHub Repo stars](https://img.shields.io/github/stars/pat-jj/KG-FIT?style=social)
+- (*NeurIPS'24*) UrbanKGent: A Unified Large Language Model Agent Framework for Urban Knowledge Graph Construction [[paper](https://arxiv.org/abs/2402.06861)][[code](https://github.com/usail-hkust/UrbanKGent)]![GitHub Repo stars](https://img.shields.io/github/stars/usail-hkust/UrbanKGent?style=social)
+- (*NeurIPS'24*) Plan-on-Graph: Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs [[paper](https://arxiv.org/abs/2410.23875)]
+- (*NeurIPS'24*) Large Language Models-guided Dynamic Adaptation for Temporal Knowledge Graph Reasoning [[paper](https://arxiv.org/abs/2405.14170)][[code](https://github.com/jiapuwang/LLM-DA)]![GitHub Repo stars](https://img.shields.io/github/stars/jiapuwang/LLM-DA?style=social)
+- (*NeurIPS'24*) KnowGPT: Knowledge Graph based PrompTing for Large Language Models [[paper](https://arxiv.org/abs/2312.06185)]
+- (*AAAI'24*) Graph Neural Prompting with Large Language Models [[paper](https://arxiv.org/abs/2309.15427)][[code](https://github.com/meettyj/GNP)]![GitHub Repo stars](https://img.shields.io/github/stars/meettyj/GNP?style=social)
 - (*EMNLP'24*) Extract, Define, Canonicalize: An LLM-based Framework for Knowledge Graph Construction [[paper](https://arxiv.org/abs/2404.03868)][[code](https://github.com/clear-nus/edc)]![GitHub Repo stars](https://img.shields.io/github/stars/clear-nus/edc?style=social)
 - (*EMNLP'24*) LLM-Based Multi-Hop Question Answering with Knowledge Graph Integration in Evolving Environments [[paper](https://arxiv.org/abs/2408.15903)]
 - (*ACL'24*) Graph Language Models [[paper](https://aclanthology.org/2024.acl-long.245/)][[code](https://github.com/Heidelberg-NLP/GraphLanguageModels)]![GitHub Repo stars](https://img.shields.io/github/stars/Heidelberg-NLP/GraphLanguageModels?style=social)
@@ -161,6 +173,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 
 ### Molecular Graph
 - (*NeurIPS'23*) GIMLET: A Unified Graph-Text Model for Instruction-Based Molecule Zero-Shot Learning [[paper](https://arxiv.org/abs/2306.13089)][[code](https://github.com/zhao-ht/GIMLET)]![GitHub Repo stars](https://img.shields.io/github/stars/zhao-ht/GIMLET?style=social)
+- (*NeurIPS'24*) LLaMo: Large Language Model-based Molecular Graph Assistant [[paper](https://arxiv.org/abs/2411.00871)][[code](https://github.com/mlvlab/LLaMo)]![GitHub Repo stars](https://img.shields.io/github/stars/mlvlab/LLaMo?style=social)
 - (*arXiv 2023.07*) Can Large Language Models Empower Molecular Property Prediction? [[paper](https://arxiv.org/abs/2307.07443)][[code](https://github.com/ChnQ/LLM4Mol)]![GitHub Repo stars](https://img.shields.io/github/stars/ChnQ/LLM4Mol?style=social)
 - (*arXiv 2024.06*) MolecularGPT: Open Large Language Model (LLM) for Few-Shot Molecular Property Prediction [[paper](https://arxiv.org/abs/2406.12950)][[code](https://github.com/NYUSHCS/MolecularGPT)]![GitHub Repo stars](https://img.shields.io/github/stars/NYUSHCS/MolecularGPT?style=social)
 - (*arXiv 2024.06*) HIGHT: Hierarchical Graph Tokenization for Graph-Language Alignment [[paper](https://arxiv.org/abs/2406.14021)][[project](https://higraphllm.github.io/)]
@@ -212,6 +225,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 - (*Complex Networks 2024*) LLMs hallucinate graphs too: a structural perspective [[paper](https://arxiv.org/abs/2409.00159)]
 - (AAAI'25) Bootstrapping Heterogeneous Graph Representation Learning via Large Language Models: A Generalized Approach [[paper](https://arxiv.org/abs/2412.08038)]
 - (*ICLR'25*) RepoGraph: Enhancing AI Software Engineering with Repository-level Code Graph [[paper](https://arxiv.org/abs/2410.14684)] [[code](https://github.com/ozyyshr/RepoGraph)]![GitHub Repo stars](https://img.shields.io/github/stars/ozyyshr/RepoGraph?style=social)
+- (*ICLR'25*) GraphRouter: A Graph-based Router for LLM Selections [[paper](https://arxiv.org/abs/2410.03834)][[code](https://github.com/ulab-uiuc/GraphRouter)]![GitHub Repo stars](https://img.shields.io/github/stars/ulab-uiuc/GraphRouter?style=social)
 - (*arXiv 2023.03*) Ask and You Shall Receive (a Graph Drawing): Testing ChatGPT’s Potential to Apply Graph Layout Algorithms [[paper](https://arxiv.org/abs/2303.08819)]
 - (*arXiv 2023.05*) Graph Meets LLM: A Novel Approach to Collaborative Filtering for Robust Conversational Understanding [[paper](https://arxiv.org/abs/2305.14449)]
 - (*arXiv 2023.05*) ChatGPT Informed Graph Neural Network for Stock Movement Prediction [[paper](https://arxiv.org/abs/2306.03763)][[code](https://github.com/ZihanChen1995/ChatGPT-GNN-StockPredict)]![GitHub Repo stars](https://img.shields.io/github/stars/ZihanChen1995/ChatGPT-GNN-StockPredict?style=social)
@@ -224,7 +238,6 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 - (*arXiv 2024.07*) LLMExplainer: Large Language Model based Bayesian Inference for Graph Explanation Generation [[paper](https://arxiv.org/abs/2407.15351)]
 - (*arXiv 2024.08*) CodexGraph: Bridging Large Language Models and Code Repositories via Code Graph Databases [[paper](https://arxiv.org/abs/2408.03910)][[code](https://github.com/modelscope/modelscope-agent/tree/master/apps/codexgraph_agent)][[project](https://laptype.github.io/CodexGraph-page/)]
 - (*arXiv 2024.10*) Graph Linearization Methods for Reasoning on Graphs with Large Language Models [[paper](https://arxiv.org/abs/2410.19494)]
-- (*arXiv 2024.10*) GraphRouter: A Graph-based Router for LLM Selections [[paper](https://arxiv.org/abs/2410.03834)][[code](https://github.com/ulab-uiuc/GraphRouter)]![GitHub Repo stars](https://img.shields.io/github/stars/ulab-uiuc/GraphRouter?style=social)
 
 ## Resources & Tools
 - [GraphGPT: Extrapolating knowledge graphs from unstructured text using GPT-3](https://github.com/varunshenoy/GraphGPT)

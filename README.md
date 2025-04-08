@@ -189,14 +189,17 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 - (*arxiv 2024.04*) From Local to Global: A Graph RAG Approach to Query-Focused Summarization [[paper](https://arxiv.org/abs/2404.16130)]
 - (*arXiv 2024.05*) Don't Forget to Connect! Improving RAG with Graph-based Reranking [[paper](https://arxiv.org/abs/2405.18414)]
 - (*arXiv 2024.06*) GNN-RAG: Graph Neural Retrieval for Large Language Modeling Reasoning [[paper](https://arxiv.org/abs/2405.20139)][[code](https://github.com/cmavro/GNN-RAG)]![GitHub Repo stars](https://img.shields.io/github/stars/cmavro/GNN-RAG?style=social)
+- (*arXiv 2024.08*) Graph Retrieval-Augmented Generation: A Survey [[paper](https://arxiv.org/abs/2408.08921)][[code](https://github.com/pengboci/GraphRAG-Survey)]![GitHub Repo stars](https://img.shields.io/github/stars/pengboci/GraphRAG-Survey?style=social)
 - (*arXiv 2024.10*) Graph of Records: Boosting Retrieval Augmented Generation for Long-context Summarization with Graphs [[paper](https://arxiv.org/abs/2410.11001)] [[code](https://github.com/ulab-uiuc/GoR)]![GitHub Repo stars](https://img.shields.io/github/stars/ulab-uiuc/GoR?style=social)
 - (*arXiv 2025.01*) Retrieval-Augmented Generation with Graphs (GraphRAG) [[paper](https://arxiv.org/pdf/2501.00309)][[code](https://github.com/Graph-RAG/GraphRAG/)]![GitHub Repo stars](https://img.shields.io/github/stars/Graph-RAG/GraphRAG?style=social)
+- (*arXiv 2025.01*) A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models [[paper](https://arxiv.org/abs/2501.13958)][[code](https://github.com/DEEP-PolyU/Awesome-GraphRAG)]![GitHub Repo stars](https://img.shields.io/github/stars/DEEP-PolyU/Awesome-GraphRAG?style=social)
 - (*arXiv 2025.02*) GFM-RAG: Graph Foundation Model for Retrieval Augmented Generation [[paper](https://arxiv.org/abs/2502.01113)] [[code](https://github.com/RManLuo/gfm-rag)]![GitHub Repo stars](https://img.shields.io/github/stars/RManLuo/gfm-rag?style=social)
 - (*arXiv 2025.02*) Are Large Language Models In-Context Graph Learners? [[paper](https://arxiv.org/pdf/2502.13562)]
 - (*arXiv 2025.02*) ArchRAG: Attributed Community-based Hierarchical Retrieval-Augmented Generation [[paper](https://arxiv.org/abs/2502.09891)]
 - (*arXiv 2025.02*) BioMaze: Benchmarking and Enhancing Large Language Models for Biological Pathway Reasoning [[paper](https://arxiv.org/abs/2502.16660)][[code](https://github.com/zhao-ht/BioMaze)]![GitHub Repo stars](https://img.shields.io/github/stars/zhao-ht/BioMaze?style=social)
 - (*arXiv 2025.03*) Graph-Augmented Reasoning: Evolving Step-by-Step Knowledge Graph Retrieval for LLM Reasoning [[paper](https://arxiv.org/abs/2503.01642)]
 - (*arXiv 2025.03*) In-depth Analysis of Graph-based RAG in a Unified Framework [[paper](https://www.arxiv.org/abs/2503.04338)][[code](https://github.com/JayLZhou/GraphRAG)]![GitHub Repo stars](https://img.shields.io/github/stars/JayLZhou/GraphRAG?style=social)
+
 
 
 ### Planning

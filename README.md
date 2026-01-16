@@ -70,6 +70,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 - (*arXiv 2024.10*) Can Graph Descriptive Order Affect Solving Graph Problems with LLMs? [[paper](https://arxiv.org/abs/2402.07140)]
 
 ## General Graph Model
+- (*ICLR'25*) Scale-Free Graph-Language Model [[paper](https://arxiv.org/pdf/2502.15189)][[code](https://github.com/Jianglin954/SFGL)]
 - (*ICLR'24*) One for All: Towards Training One Graph Model for All Classification Tasks [[paper](https://arxiv.org/abs/2310.00149)][[code](https://github.com/LechengKong/OneForAll)]![GitHub Repo stars](https://img.shields.io/github/stars/LechengKong/OneForAll?style=social)
 - (*ICML'24*) LLaGA: Large Language and Graph Assistant [[paper](https://arxiv.org/abs/2402.08170)][[code](https://github.com/VITA-Group/LLaGA)]![GitHub Repo stars](https://img.shields.io/github/stars/VITA-Group/LLaGA?style=social)
 - (NeurIPS'24) LLMs as Zero-shot Graph Learners: Alignment of GNN Representations with LLM Token Embeddings [[paper](https://arxiv.org/abs/2408.14512)][[code](https://github.com/W-rudder/TEA-GLM)]![GitHub Repo stars](https://img.shields.io/github/stars/W-rudder/TEA-GLM?style=social)

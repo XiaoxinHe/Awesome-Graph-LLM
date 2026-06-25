@@ -172,6 +172,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 - (*arXiv 2024.06*) Explore then Determine: A GNN-LLM Synergy Framework for Reasoning over Knowledge Graph [[paper](https://arxiv.org/abs/2406.01145)]
 - (*arXiv 2024.11*) Synergizing LLM Agents and Knowledge Graph for Socioeconomic Prediction in LBSN [[paper](https://arxiv.org/abs/2411.00028)]
 - (*arXiv 2025.01*) Fast Think-on-Graph: Wider, Deeper and Faster Reasoning of Large Language Model on Knowledge Graph [[paper](https://arxiv.org/abs/2501.14300)][[code](https://github.com/dosonleung/FastToG)]![GitHub Repo stars](https://img.shields.io/github/stars/dosonleung/FastToG?style=social)
+- (*Preprints 2026*) KG4ESG: The ESG Knowledge Graph Atlas [[paper](https://www.preprints.org/manuscript/202602.1970)]
 
 ### Molecular Graph
 - (*NeurIPS'23*) GIMLET: A Unified Graph-Text Model for Instruction-Based Molecule Zero-Shot Learning [[paper](https://arxiv.org/abs/2306.13089)][[code](https://github.com/zhao-ht/GIMLET)]![GitHub Repo stars](https://img.shields.io/github/stars/zhao-ht/GIMLET?style=social)
